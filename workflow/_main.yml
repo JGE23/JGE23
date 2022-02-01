@@ -20,7 +20,7 @@ jobs:
           # Options
           user: JGE23
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, repositories
           config_timezone: America/New_York
 
 name: Half-year calendar
