@@ -1,4 +1,7 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics embed
+  uses: lowlighter/metrics@v3.18
+  
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -14,11 +17,11 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Options
           user: JGE23
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/New_York
-          #plugins
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
