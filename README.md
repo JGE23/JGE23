@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a personal side project.
 
-- 🌱 I’m currently learning: Python and other tools on a current project. May or may not post. We'll see. :eyes: 
+- 🌱 I’m currently learning: Machine Learning focused project :eyes: 
 
-- 📫 How to reach me: DM
+- 📫 How to reach me: X DM
 
 - 😄 Pronouns: she/her
 
